@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-public class WeaponSway : MonoBehaviour {
+public class Gun : MonoBehaviour {
 
     [Header("Sway Settings")]
     [SerializeField] private float smooth;
